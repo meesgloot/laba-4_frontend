@@ -1,0 +1,15 @@
+tbody tr:nth-child(odd){background-color: #306470}
+tbody tr:nth-child(even){background-color: #305470}
+tfoot{background-color: #306470}
+caption{
+	color:#305470;
+	font-size: xx-large;
+}
+/*tbody, tfoot{color:#cf9b8f}*/
+
+tbody td:nth-child(1) {text-align: center}
+tbody td:nth-child(2) {text-align: left}
+tbody td:nth-child(3) {text-align: right}
+tfoot td:nth-child(1) {text-align: center}
+tfoot td:nth-child(2) {text-align: left}
+tfoot td:nth-child(3) {text-align: right}
